@@ -14,8 +14,8 @@
 
 # :hammer: Funcionalidades do projeto
 
-- `Funcionalidade 1`: Divulgar opiniões e contar sobre seu cotidiano.
-- `Funcionalidade 2`: Notícias, opinião, humor, ciências, esportes, política, entretenimento, cultura.
+- `Funcionalidade 1`: portfólio digital fica mais fácil de divulgar seu trabalho em várias plataformas, redes sociais e etc.
+- `Funcionalidade 2`: vitrine dos trabalhos a um custo muito baixo ou quase zero.
 - `Funcionalidade 2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
 - `Funcionalidade 3`: descrição da funcionalidade 3
 
